@@ -33,7 +33,7 @@
               "src/styles.css"
             ],
             "scripts": 
-             { "start": "node server"}
+             { "start": "node server.js"}
             
           },
           "configurations": {
